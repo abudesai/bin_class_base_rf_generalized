@@ -1,6 +1,6 @@
 # RANDOM FOREST BINARY CLASSIFIER
 
-This is a repo for a random forest binary classifier model that uses a data schema.
+This is a repo for a random forest binary classifier model that uses a data schema as per Ready Tensor specifications.
 
 ## Description
 
@@ -10,6 +10,8 @@ The implementation has been built with following capabilities
 2. Preprocess training data for binary classification problem
 3. Train random forest model on the dataset and save the model
 4. Evaluate the saved model's performance on test data
+
+The implementation uses Ready Tensor specifications for data schema for the binary classification problem.
 
 ## Usage
 
